@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sertaç!</h1>
-<h3 align="center">aspiring frontend developer</h3>
+<h3 align="center">fullstack web developer</h3>
 
 - 🌱 I’m currently learning **ReactJS**
 
