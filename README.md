@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=schmelzofen&label=Profile%20views&color=0e75b6&style=flat" alt="schmelzofen" /> </p>
 
-- 🌱 I’m currently learning **Backend-Development**
+- 🌱 I’m currently learning **Angular**
 
 - 📫 How to reach me **sertac.oezdemir@gmail.com**
 
