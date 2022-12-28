@@ -7,7 +7,6 @@
 
 - 💬 Ask me about **what comes into your mind... maybe I can learn something new. :)**
 
-- 📫 How to reach me **sertac.oezdemir@gmail.com**
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
